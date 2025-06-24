@@ -51,7 +51,7 @@
 ### 📊 Learning Experiments
 - [Blog-Platform](https://github.com/sandalu-umayanga/Blog-Platform)
 - [Home-page-for-Salon](https://github.com/sandalu-umayanga/Home-page-for-Salon)
-- [my-first-react-project](https://github.com/sandalu-umayanga/my-first-react-project)
+- [frontend-for-hospital-management-system](https://github.com/sandalu-umayanga/frontend-for-hospital-management-system)
 - [django-pdf-service-testing](https://github.com/sandalu-umayanga/django-pdf-service-testing)  
   Django microservice for adding a watermark to PDFs when downloading the PDF
 - [hsl-secure-video-streaming-with-django](https://github.com/sandalu-umayanga/hsl-secure-video-streaming-with-django)
