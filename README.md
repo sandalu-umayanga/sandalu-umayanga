@@ -11,7 +11,7 @@
 
 ## 🚀 Tech Stack
 
-`Java` `React.js` `TypeScript` `Spring Boot` `Django` `Node.js` `ESP32` `AWS Amplify` `MySQL`
+`Java` `React.js` `TypeScript` `Spring Boot` `Django` `Node.js` `c` `AWS Amplify` `MySQL`
 
 ---
 
