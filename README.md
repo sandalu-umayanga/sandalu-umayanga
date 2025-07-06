@@ -18,7 +18,7 @@
 ## 📌 Featured Projects
 
 ### 🚆 3rd Year Project
-- [3yp-railynk-front](https://github.com/sandalu-umayanga/3yp-railynk-front)  
+- [3yp-railynk-front](https://github.com/sandalu-umayanga/3yp-railLynk-front)  
   Smart ticketing & live train tracking system — React frontend for RailLynk
 
 ### 🛠️ Personal Projects
