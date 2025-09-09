@@ -2,7 +2,6 @@
   <img src="img.png" alt="Sandalu Umayanga Banner" />
 </p>
 
-
 # Hi there, I'm Sandalu Umayanga 👋  
 
 [![](https://visitcount.itsvg.in/api?id=sandalu-umayanga&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)  
