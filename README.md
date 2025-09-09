@@ -132,7 +132,6 @@ Deep learning–based **handwritten character recognition** system.
 
 - 📧 Email: **e20284@eng.pdn.ac.lk**  
 - 💼 LinkedIn: [linkedin.com/in/sandalu-umayanga](https://www.linkedin.com/in/sandalu-umayanga)  
-- 🐦 Twitter (X): [@SandaluUmayanga](https://twitter.com/SandaluUmayanga)  
 - 🌐 Portfolio (coming soon...)  
 
 ---
