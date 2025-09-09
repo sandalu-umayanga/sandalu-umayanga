@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Sandalu Umayanga Banner" />
+  <img src="img.png" alt="Sandalu Umayanga Banner" />
 </p>
 
 
